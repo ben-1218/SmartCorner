@@ -1,0 +1,46 @@
+/*dashboard*/
+.banner-area{
+  background-image: url(images/banner.png);
+  background-size: cover;
+  background-position: center;
+
+  height: 250px;
+  width: 100%;
+  position:relative;
+}
+
+/*addproduct*/
+.addpbox h2{
+  background-color: whitesmoke;
+  border-radius: 7px;
+  padding: 4px;
+}
+.addpbox{margin-left: 300px; background-color: darkkhaki;width: 30%; border-radius: 6px;}
+.addpbox input {
+  border-radius: 52px;
+  background-color: blanchedalmond;
+  margin: 4px;
+}
+.addpbox textarea{
+  background-color: blanchedalmond;
+}
+.addpbox select{
+  background-color: blanchedalmond;
+}
+.addpbox .uploadbtn{
+  padding: 7px;
+}
+.uploadbtn:hover{
+  background-color: brown;
+  color: white;
+}
+/*productPage*/
+
+.images{margin-right: 20px; margin-left: 20px; position: relative;overflow: hidden; margin-bottom: 10px;border-radius: 5px;background-color: grey;}
+.images h3{color: white; background-color:transparent;}
+
+
+
+
+
+
